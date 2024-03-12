@@ -1,1 +1,1 @@
-![google](/images/google.png)
+![google](images/google.png)
