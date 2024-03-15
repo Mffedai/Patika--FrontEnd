@@ -25,6 +25,13 @@ body {
     margin-right: 30px;
 }
 
+.center {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
 .main {
     height: 100%;
     margin: 0;
