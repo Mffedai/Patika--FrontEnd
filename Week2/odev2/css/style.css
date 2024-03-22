@@ -182,19 +182,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-decoration: underline;
 }
 
-.right {
-  display: block;
-  position: inherit;
-  float: right;
-}
-
-.ulvertical {
-  float: right;
-  list-style-position: none;
-}
-
 .ulvertical li {
-  display: block;
   float: right;
-  display: inline;
 }
