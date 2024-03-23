@@ -1,3 +1,3 @@
 # instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
-![gif](assets/instagram.gif)
+
+[video](assets/instagram.mp4)
