@@ -1,6 +1,3 @@
 # instagrambootstrapclone
 
-<video autoplay controls>
-  <source src="assets/instagram.mp4" type="video/mp4">
-  Tarayıcınız video etiketini desteklemiyor.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=F9KQDDH-iLI&list=RDF9KQDDH-iLI&start_radio=1" frameborder="0" allowfullscreen></iframe>
